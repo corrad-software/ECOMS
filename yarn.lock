@@ -6459,6 +6459,11 @@ vue-devtools-stub@^0.1.0:
   resolved "https://registry.yarnpkg.com/vue-devtools-stub/-/vue-devtools-stub-0.1.0.tgz#a65b9485edecd4273cedcb8102c739b83add2c81"
   integrity sha512-RutnB7X8c5hjq39NceArgXg28WZtZpGc3+J16ljMiYnFhKvd8hITxSWQSQ5bvldxMDU6gG5mkxl1MTQLXckVSQ==
 
+vue-document-editor@^2.3.2:
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/vue-document-editor/-/vue-document-editor-2.3.2.tgz#3f431cb0304d310d7518f6948b7ff39c0dfccf3f"
+  integrity sha512-GZ96CPuw28TKP034BqY6AbCr5/NKmU2v6OSmO3vV7AVdOUfRFV0ClF1qqNVndrZnEV7GlW/DwYWKZRAeAtcMkQ==
+
 vue-fullscreen@^3.1.1:
   version "3.1.1"
   resolved "https://registry.yarnpkg.com/vue-fullscreen/-/vue-fullscreen-3.1.1.tgz#385097e0b43f4604ded99adb0ceb225dea3e0326"
